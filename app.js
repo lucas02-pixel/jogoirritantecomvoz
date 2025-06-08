@@ -45,7 +45,7 @@ falarTexto('rejeitado(a) rejeitado(a)');
 falarTexto('kkkkkkkkkkk');
 falarTexto('eu tenho muitos jogadores e você é rejeitado rejeitado(a)');
 let numero1 = 2;
-let numero2 = 30;
+let numero2 = 5;
 for(numero1; numero1 < numero2;) {
   numero1++;
   falarTexto('rejeitado');
